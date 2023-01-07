@@ -1,0 +1,11 @@
+NAME        |   ENROLLMENT-NUMBER  |            EMAIL-ID           |   CONTACT-NUMBER  |      COURSE     |
+BEN         |       21659801       |   21659842@mail.jiit.ac.in    |     9478541267    |       CSE       |
+SHINCHAN    |       21659802       |   21659802@mail.jiit.ac.in    |     8746589234    |       CSE       |
+KAMAL       |       21659803       |   21659803@mail.jiit.ac.in    |     9989787852    |       CSE       |
+MILIND      |       21659804       |   21659804@mail.jiit.ac.in    |     9965865527    |       CSE       |
+KAUSHAL     |       21659805       |   21659805@mail.jiit.ac.in    |     9157415748    |       CSE       |
+DIYA        |       21659111       |   21659111@mail.jiit.ac.in    |     9748406972    |       ECE       |
+DOREMON     |       21659112       |   21659112@mail.jiit.ac.in    |     7898740558    |       ECE       |
+TANYA       |       25866200       |   25866200@mail.jiit.ac.in    |     7480695232    |     BIO-TECH    |
+AVNI        |       25866201       |   25866201@mail.jiit.ac.in    |     9995788510    |     BIO-TECH    |
+ABHISHEK    |       25866202       |   25866202@mail.jiit.ac.in    |     9111475862    |     BIO-TECH    |

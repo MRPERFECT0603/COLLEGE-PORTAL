@@ -1,0 +1,21 @@
+DE | DEPT  |       NAME         |     USERID      |      SUBJECT        | MOBILE NO. |         EMAILID             |
+---|-------|--------------------|-----------------|---------------------|------------|-----------------------------|
+H  | HSS   | Dr. Aviral Soni	| aviral.soni	  | Psychology		| 8103047988 | aviral.soni12@sample.in     |
+H  | CSE   | Dr. Vivek Shaurya  | vivek.shaurya   | Computer Science	| 9801096437 | vivek.shaurya17@sample.in   |
+H  | PMSE  | Dr. Yashvin Pant	| yashvin.pant 	  | Physics 		| 8800812127 | yashvin.pant12@sample.in    |
+H  | MATHS | Dr. Sanat Walia	| walia.sanat     | Mathematics 	| 9785414557 | walia.sanat47@sample.in     |
+P  | HSS   | Mr. Tanmay Vig	| tanmay.vig 	  | Economics 		| 8800812765 | tanmay.vig12@sample.in      |
+P  | CSE   | Dr. Vaibhav Kaityar| katiyar.vaibhav | Computer Science 	| 9412511111 | katiyar.vaibhav78@sample.in | 
+P  | PMSE  | Mr. Swastik Patel	| patel.swastik	  | Physics 		| 8215479521 | patel.swastik56@sample.in   |
+P  | MATHS | Mr. Anmol Verma	| verma.anmol	  | Mathematics 	| 7015487512 | verma.anmol420@bandi.in     |
+AP | CSE   | Mr. Amogh Bansal	| bansal.amogh	  | Computer Science	| 9873742481 | bansal.amogh01@sample.in    |
+AP | HSS   | Mr. Modit Grover	| grover.modit 	  | Life Skills 	| 8979261789 | grover.modit69@sample.in    |
+
+
+AP|ECE	|BHAVYA.MALIK	|MALIK.BHAVYA	|ELECTRICAL	|9876543210	|MALIK@SAMPLE.AC.IN|
+H|HSS	|GOPAL.GUPTA	|GUPTA01	|LIFE.SKILLS	|1234567890	|GUPTA82@SAMIL.COM|
+H|HSS	|MR.VIVEK.SHAURYA	|SHAURYA06	|ECONOMICS	|9820394899	|SHAURYA21@SAMPLE.COM|
+P|CSE	|TANYA.VASHISTA	|TANYA01	|ELECTRICALS	|9876543210	|VASHISTHA@GMAIL.COM|
+H|CSE	|MADHURA.JITURI	|JITURI007	|GRAPHICS	|90182936372	|JITURI@SAMPLE.COM|
+P|CSE	|MR.ANMOL	|ANMOL007	|PHYSICS	|9876543210	|ANMOL@SAMPLE.COM|
+P|CSE	|MR.VIVEK	|VIVEK8546	|SCIENCE	|9876543210	|VIVEK@SAMPLE.IN|

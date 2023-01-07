@@ -1,0 +1,10 @@
+				
+				_____________________________
+				|DEPT	| 	HOD	    |
+				|-------|-------------------|       
+				|CSE	|MR.VIVEK SHAURYA   |
+				|ECE	|MR.HARSHIT VIJAY   |
+				|PMSE	|MS.ISHIKA SHUKLA   |
+				|HSS	|MR.ANSH MISHRA     |
+				|IT	|MR.ANMOL VERMA     |
+				-----------------------------
