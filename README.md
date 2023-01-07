@@ -38,7 +38,7 @@ A Place for both teacher and students to manage there college life easily and ef
 
 <br>
 
-> **ROHIT GUPTA ** <p align="centre"> 
+> **ROHIT GUPTA** <p align="centre"> 
 <u>Educational Institute</u>: Jaypee Institute of Information Technology (JIIT)   
 <u>Enrollment Number</u>: 21803018 <br>
 <u>Batch</u>: B12
